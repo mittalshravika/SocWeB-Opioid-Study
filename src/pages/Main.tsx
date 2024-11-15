@@ -27,7 +27,7 @@ const STARTING_QA_PANEL_TEXT = (
     ) provided below. <br /> <br />
     You may search the meaning of any unknown terms that appear using search
     engines such as Google. As and when applicable, we also provide a brief
-    description of OUD related terms, highlighted in bold. The description can
+    description of OUD related terms. The description can
     be accessed by{" "}
     <Tooltip title="Hover to get a brief description of the word/phrase">
       <i>hovering</i>
